@@ -1,4 +1,4 @@
-# Predicting-Telecoms-churn-Analysis for Machine learning
+# Predicting-Telecoms-churn-Analysis for Data Science
 
 
 ## Objectives:
