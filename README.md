@@ -6,7 +6,7 @@ To build a predictive model that identifies telecom customers likely to churn, h
 
 ### Data Source
 
--Amdari Project Predicting Customer Churn: Identifying Customers that are Susceptible to Churn
+- Amdari Project Predicting Customer Churn: Identifying Customers that are Susceptible to Churn
 
 ### Tools Used
 
