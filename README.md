@@ -39,9 +39,8 @@ To build a predictive model that identifies telecom customers likely to churn, h
 ### Model Evaluation 
 
 - using about 6 differennt machine learning algorithms to evaluate our prediction
-- 
+  
 ### Recommendations
 
-- Insight and recommendation
 -  Also put it to production by uisng streamlit app with parameter to evaluation either to know customer that churn or Not churn
 
