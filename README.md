@@ -4,6 +4,17 @@
 ## Objectives:
 To build a predictive model that identifies telecom customers likely to churn, helping the company reduce revenue loss and improve retention.
 
+
+### Table of Content
+- import Required Library
+- Data Data Collection
+- Data Preprocessing
+- EDA
+- Feature Engineerin
+- Model Building
+- Model Evaluation
+- Streamlit app 
+
 ### Data Source
 
 - Amdari Project Predicting Customer Churn: Identifying Customers that are Susceptible to Churn
