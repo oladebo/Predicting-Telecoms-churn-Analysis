@@ -1,14 +1,14 @@
 # Predicting-Telecoms-churn-Analysis for Machine learning
 
 
-## Objective:
+## Objectives:
 To build a predictive model that identifies telecom customers likely to churn, helping the company reduce revenue loss and improve retention.
 
 ### Data Source
 
 -Amdari Project Predicting Customer Churn: Identifying Customers that are Susceptible to Churn
 
-## Tools Used
+### Tools Used
 
 - Python
 
@@ -22,16 +22,16 @@ To build a predictive model that identifies telecom customers likely to churn, h
 - Initial Data Preview
 - Viewed the top and bottom rows of the dataset
   
-## Data Processing/Preparation
+### Data Processing/Preparation
 
 - Checked the shape (number of rows and columns) of the dataset.
 - Printed the number of rows and columns separately.
   
-## EDA
+### EDA
 
 - Showing the relation and distribution between the feature variables
   
-### model building
+### Model building
 
 - Handling Missing value among the feature columns
 - Handling imbalance dataset with method of using SMOTE
